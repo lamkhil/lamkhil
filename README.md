@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Naisha
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me: lamkhil3000@gmail.com
 
